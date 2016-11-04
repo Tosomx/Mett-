@@ -1,0 +1,13 @@
+#segundo_titulo{
+  font-weight: 100;;
+  font-style: normal;
+}
+  h1{ /*tag, class, id*/
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    color: blue;
+    font-size: 90px;
+  }
+  .rojo{
+    font-style: italic;
+    color: green;
+  }
